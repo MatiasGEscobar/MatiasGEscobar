@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Matias G. Escobar</h1>
-<h3 align="center">A passionate Backend developer with Full Stack experience from Argentina</h3>
+<h1 align="center">Hola 👋, Mi nombre es Matias Escobar</h1>
+<h3 align="center">Soy Desarrollador Full Stack con foco en Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-<h3>Desarrollador Full Stack, egresado del Bootcamp de Henry, donde obtuve un profundo conocimiento de tecnologías modernas como NestJS, Express, TypeORM, Docker, PostgreSQL, MongoDB, React y TypeScript. Mi formación me permitió participar activamente en el desarrollo de cinco proyectos prácticos, destacando la creación de la API para una plataforma fitness con características avanzadas como autenticación y pagos online. Mi trayectoria previa me ha brindado una sólida capacidad para la optimización de procesos y la gestión de recursos, habilidades que ahora aplico con entusiasmo para impulsar la eficiencia y la innovación en el ámbito del desarrollo de software. Busco integrarme en un equipo donde pueda seguir desarrollando mis habilidades técnicas y contribuir activamente en proyectos desafiantes.</h3>
+<h3>Desarrollador Full Stack, egresado del Bootcamp de Henry, donde obtuve un profundo conocimiento de tecnologías modernas como NestJS, Express, TypeORM, Docker, PostgreSQL, MongoDB, React y TypeScript, Wordpress entre otros. Mi formación me permitió participar activamente en el desarrollo de cinco proyectos prácticos, destacando la creación de la API para una plataforma fitness con características avanzadas como autenticación y pagos online. Mi trayectoria previa me ha brindado una sólida capacidad para la optimización de procesos y la gestión de recursos, habilidades que ahora aplico con entusiasmo para impulsar la eficiencia y la innovación en el ámbito del desarrollo de software. Busco integrarme en un equipo donde pueda seguir desarrollando mis habilidades técnicas y contribuir activamente en proyectos desafiantes.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -41,6 +41,8 @@
 - Bootcamp de Henry (Modulo 3) **Divina Aura Estetica**: Plataforma para la gestión de citas y servicios de un centro de estética.
 - Bootcamp de Henry (Modulo 4) **Back Ecommerce**: API RESTful desarrollada con NestJS y PostgreSQL para la gestión de productos, usuarios y pedidos.
 - Bootcamp de Henry (Proyecto Final Grupal) **Beast Mode Gym**: Plataforma integral para el sector fitness (API con NestJS, Frontend con React, autenticación, pagos, notificaciones).
+- Proyecto personal **Desarrollo de Portfolio**: Proyecto personal en donde decidi como primer instancia crear un lugar en donde puedan verse reflejados mis avances en programacion y seguir con la practica de HTML, CSS y JavaScript.
+- Poryecto personal **Aplicacion Academia Apuntar**: Proyecto FullStack en donde integro todo lo aprendido en el bootcamp implementando para el  Backend: NestJS + TypeScript + PostgreSQL + Docker para optimizar la BDD en contenedor, para el Frontend: Next.js 14+ (App Router) + TypeScript + Tailwind CSS, para la autenticación: JWT + verificación de dos factores, para el sistema de pagos: Integración con Mercado Pago(con sistema de escrow), para el Storage: Cloudinary para documentos e imágenes, para los emails: SendGrid para notificaciones y para el chat: Socket.io para mensajería en tiempo real, en donde con la ayuda de la IA pude mejorar y aprender mejor sobre estas tecnologias.
 
 **Conéctate conmigo:**
 
